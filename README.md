@@ -1,5 +1,7 @@
-Advanced Analytical Report: 
+## Advanced Analytical Report: 
 RFM, Funnel, Cohort, and Performance Intelligence
+
+<img width="763" height="651" alt="Dashboard Image" src="https://github.com/user-attachments/assets/3ac98983-7c1c-4705-9657-c6c5052bd034" />
 
 ## Overview
 This report focuses only on the advanced analytical layers of the workbook rather than repeating a standard sales summary. The dataset contains 120 records from 2023-08-01 to 2023-11-09 across 10 salespeople, 2 products, and 6 regions, which is sufficient for segmentation, retention-style cohort analysis, funnel proxy review, productivity benchmarking, and performance scoring.
