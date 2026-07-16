@@ -75,6 +75,9 @@ Taken together, the analyses tell one coherent story. The business does not appe
 
 That makes the most meaningful management agenda clear. The first priority is to replicate champion behaviors from the strongest performers, especially those who combine solid monetary contribution with efficient execution. The second priority is to improve the middle and at-risk group through targeted intervention rather than blanket pressure, because the data suggests uneven quality of execution rather than insufficient total effort.
 
+<img width="1240" height="1600" alt="schema Image" src="https://github.com/user-attachments/assets/f282251a-7dbe-415e-88b7-6981d95b82ca" />
+
+
 ## Advanced SQL Questions
 # The following questions fit this advanced report structure more meaningfully than a basic sales summary:
 --	Which salesperson leads on revenue, revenue per hour, and conversion proxy, and do these leaders differ?                
